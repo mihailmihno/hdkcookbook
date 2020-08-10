@@ -8,5 +8,5 @@ I don't have specific schedule for update this reposotory, but when I find some 
 
 DISCLAIMER: It is not guide how to write C++ or HDK plugin in "good" way... Think about it like idea notes that are made to not be forgotted and might be used by anyone later.
 
-CONENTS:
+CONTENTS:
 * Chapter 00 - Basic SOP that demonstrate How to create point for different shapes and detail and set N attribute to them. (#Parameters, #Geometry, #Attributes)
