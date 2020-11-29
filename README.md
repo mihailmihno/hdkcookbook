@@ -9,4 +9,5 @@ I don't have specific schedule for this repository, but when I find some interes
 DISCLAIMER: It is NOT guide how to write C++ or HDK plugin in a "good" way... Think about it like idea notes that are made to not be forgotted and might be used by anyone later.
 
 CONTENTS:
-* Chapter 00 - Basic SOP that demonstrates how to create points for different shapes and set N attribute to them. (#Parameters, #Geometry, #Attributes) (https://vimeo.com/446687535/2cd264bcb6)
+* Chapter 00 - Basic SOP that demonstrates how to create points for different shapes and set N attribute to them. (#Parameters, #Geometry, #Attributes) (https://vimeo.com/446687535)
+* ZX Tools - Python and VOP based tools for exporting and importing screen data for ZX Specturm computer (result is available here https://vimeo.com/482427940)
